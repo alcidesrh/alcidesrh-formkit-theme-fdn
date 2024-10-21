@@ -26,8 +26,8 @@ export default {
   label: `
     block 
     text-$colorTemperature-$colorTemperatureStrength 
-    text-$scale(-1,*)
-    mb-$spacing(-2,*)
+    text-$scale(0,*)
+    mb-$spacing(1,*)
 
     dark:text-$colorTemperature-$colorTemperatureStrengthDark
   `,

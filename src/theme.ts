@@ -177,10 +177,10 @@ export default createTheme({
      *
      * To do so, simply assign a string value to the variable name.
      */
-    accentColor: "neutral",
+    accentColor: "slate",
     accentColorStrength: "900",
     accentColorStrengthDark: "100",
-    colorTemperature: "neutral",
+    colorTemperature: "slate",
     colorTemperatureStrength: "900",
     colorTemperatureStrengthDark: "100",
     inputMaxWidth: "max-w-[20em]",
